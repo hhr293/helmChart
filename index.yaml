@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bf16:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-04-01T10:49:06.245580648+08:00"
+    description: A Helm chart for Kubernetes
+    digest: d63889e4aa743c3d1bb6ee4c518414f9bea94fb6f0931a36d5662c75f56d4b7a
+    name: bf16
+    type: application
+    urls:
+    - https://hhr293.github.io/helm-chart/sgxchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-01T10:49:06.244890115+08:00"
